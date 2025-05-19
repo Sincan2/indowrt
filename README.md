@@ -87,12 +87,6 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ````
 
-Pastikan file gambar `ss1.jpg` sudah tersedia di repository GitHub Anda atau dapat diakses melalui URL publik. Jika Anda meletakkannya di folder yang sama dengan `README.md`, maka gambar tersebut akan ditampilkan saat Anda mengakses halaman repository.
+INI DI BUAT OLEH Team IndoWrt Tolong untuk Yang copas dan merubah kiddes scripts or kutubers ingat harus ada siapa yang membuat
 
-Jika file gambar berada di folder yang berbeda, pastikan untuk mencantumkan jalur yang benar, misalnya:
-
-```markdown
-![Tampilan Menu Fix TTL](assets/images/ss1.jpg)
 ````
-
-Di sini, `ss1.jpg` adalah path yang mengarah ke file gambar dalam folder ``.
