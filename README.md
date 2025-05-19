@@ -87,6 +87,7 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ````
 
-INI DI BUAT OLEH Team IndoWrt Tolong untuk Yang copas dan merubah kiddes scripts or kutubers ingat harus ada siapa yang membuat
+INI DI BUAT OLEH Team IndoWrt Tolong untuk Yang copas dan merubah kiddes scripts or kutubers
+INGAT harus ada siapa yang membuat
 
 ````
