@@ -30,6 +30,8 @@ Unduh atau salin skrip `indowrt.sh` dari repository ini dan jalankan di perangka
 wget https://raw.githubusercontent.com/Sincan2/indowrt/master/indowrt.sh -O /tmp/indowrt.sh
 chmod +x /tmp/indowrt.sh
 /tmp/indowrt.sh
+chmod 755 /tmo/indowrt.sh
+./indowrt.sh
 ```
 
 Skrip ini akan membuat tiga file yang diperlukan untuk mengonfigurasi TTL:
