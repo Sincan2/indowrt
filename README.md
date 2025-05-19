@@ -1,5 +1,3 @@
-Untuk menampilkan gambar `ss1.jpg` di dalam `README.md`, Anda bisa menambahkannya dengan sintaks Markdown untuk gambar. Berikut adalah contoh bagaimana Anda dapat memperbarui `README.md` untuk menampilkan gambar tersebut:
-
 ````markdown
 # Fix TTL pada OpenWrt
 
