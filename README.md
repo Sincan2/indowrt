@@ -28,7 +28,7 @@ Unduh atau salin skrip `indowrt.sh` dari repository ini dan jalankan di perangka
 wget https://raw.githubusercontent.com/Sincan2/indowrt/master/indowrt.sh -O /tmp/indowrt.sh
 chmod +x /tmp/indowrt.sh
 /tmp/indowrt.sh
-chmod 755 /tmo/indowrt.sh
+chmod 755 /tmp/indowrt.sh
 ./indowrt.sh
 ```
 
